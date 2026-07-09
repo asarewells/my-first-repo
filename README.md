@@ -1,2 +1,2 @@
 # my-first-repo
-my first Git repository
+Hello coders this is my first Git repository
